@@ -5,7 +5,8 @@ All tasks, saved models, GUIs, requirements files, and the internship report are
 
 📌 Google Drive Folder
 
-🔗 Internship Submission (NULLCLASS)
+🔗 Internship Submission (NULLCLASS):
+https://drive.google.com/drive/folders/1xgGFpjTmHcWgRic1HFIQf3LuG47z-qyJ?usp=sharing
 
 📄 Contents in the Drive Folder
 
