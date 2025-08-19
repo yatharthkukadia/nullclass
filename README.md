@@ -1,41 +1,35 @@
 Internship Project – NullClass
 
 This repository contains the internship tasks assigned by NullClass.
-All tasks, saved models, GUIs, requirements files, and the internship report are organized and uploaded to Google Drive due to large file size.
+The source code and requirements.txt for each task are provided here on GitHub.
+Due to large file sizes, the datasets, trained models, and model weights are uploaded to Google Drive.
 
-📌 Google Drive Folder
+📌 Google Drive Folder (Datasets, Models & Weights): https://drive.google.com/drive/folders/19s6bESiKHC4Q97MyoSC25K9c_MWf3D_f?usp=sharing
 
-🔗 Internship Submission (NULLCLASS):
-https://drive.google.com/drive/folders/1xgGFpjTmHcWgRic1HFIQf3LuG47z-qyJ?usp=sharing
+📄 Tasks Covered
 
-📄 Contents in the Drive Folder
+French → Tamil Translator – Translates only five-letter French words.
 
-Task 1: French → Tamil Translator
+Dual Language Translator (English → French + Hindi) – Works only if input ≥ 10 characters.
 
-Task 2: Dual Language Translator (English → French + Hindi)
+Image/Video Translation – Extracts and translates only English text from images/videos.
 
-Task 3: Translation from Image/Video
+Voice Translator (English → Hindi) – Active only between 9:30 PM – 10:00 PM.
 
-Task 4: Voice Translator (English → Hindi)
+Logic-Based English → Hindi Translator – Restricts vowel-starting words except between 9:00 PM – 10:00 PM.
 
-Task 5: Logic-Based English → Hindi Translator
+Real-time Conversation (English ↔ Spanish) – Facilitates bilingual conversation with live voice translation.
 
-Task 6: Real-time Conversation (English ↔ Spanish)
+📂 Repository Contents (GitHub)
 
-Internship Report
+Task1_French_Tamil/ → Code + requirements.txt
 
-📌 Notes
+Task2_Dual_Translator/ → Code + requirements.txt
 
-Each task folder includes:
+Task3_Image_Translator/ → Code + requirements.txt
 
-requirements.txt
+Task4_Voice_Translator/ → Code + requirements.txt
 
-Model training file (.ipynb)
+Task5_Logic_Translator/ → Code + requirements.txt
 
-GUI code (if applicable)
-
-Saved models and/or weights
-
-Please download from the Drive link above to run the code.
-
-✨ All work has been completed as per the given internship instructions and integrated into the submission folder.
+Task6_RealTime_Conversation/ → Code + requirements.txt
